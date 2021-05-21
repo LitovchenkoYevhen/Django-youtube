@@ -1,0 +1,18 @@
+body{
+    background-color: #dddddd;
+}
+
+element.style {
+}
+
+.list-group-item.active {
+    z-index: 2;
+    color: #b5b5b5;
+    background-color: #ffffff;
+    border-color: #f3f3f3;
+}
+
+.list-group-item.active:hover {
+    background-color: #dedede;
+    color: white;
+}
